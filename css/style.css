@@ -2376,9 +2376,9 @@ li:last-child{
 }
 
 .tank-content-photo-5 .content-photo img {
-    border-radius: 4px;
+    border-radius: 20px; /* Aumenta el valor para bordes más redondeados */
     width: 100%;
-}
+       }
 
 @media (max-width: 1080px) {
     .tank-content-photo-5 .content-left h3 {
